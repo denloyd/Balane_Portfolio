@@ -1,7 +1,43 @@
 # DenloydMarBalane
 
 ## Description
-This README outlines the tags and elements used when creating my personal portfolio using HTML only. 
+Welcome to my portfolio! This is where I showcase the projects and skills I’ve developed as a 3rd-year 
+Bachelor of Science in Information Systems (BSIS) student. This portfolio highlights some of the work I've done so far.
+
+## How to Clone this Repository
+
+1. On GitHub, navigate to the main page of the repository.
+2. Above the list of files, click **Code**.
+3. Copy the URL for the repository:
+   - To clone the repository using HTTPS, under "HTTPS", click the clipboard icon.
+   - To clone the repository using an SSH key (including a certificate issued by your organization's SSH certificate authority), click **SSH**, then click the clipboard icon.
+   - To clone the repository using GitHub CLI, click **GitHub CLI**, then click the clipboard icon.
+4. Open **Git Bash**.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type `git clone`, and then paste the URL you copied earlier. (git clone https://github.com/denloyd/DenloydMarBalane)
+7. Press Enter to create your local clone. 
+
+## How to Run the Website Using VSCode Live Server
+
+### Step 1: Install the Live Server Extension
+1. Open **Visual Studio Code (VSCode)**.
+2. Click the **Extensions** icon (or press `Ctrl+Shift+X`).
+3. Search for **Live Server**.
+4. Find the "Live Server" extension by **Ritwick Dey** and click **Install**.
+
+### Step 2: Open Your Project
+1. Go to **File** > **Open Folder**.
+2. Select the folder where your HTML files are.
+
+### Step 3: Run Live Server
+1. Open the HTML file you want to preview.
+2. Right-click the file and choose **Open with Live Server**.
+   - Or just click **Go Live** at the bottom of VSCode.
+
+### Step 4: Check Your Website
+- Your website should now open automatically in a browser.
+- Any changes you make in VSCode will show up right away in the browser.
+
 
 ## HTML Tags and Elements Used
 
@@ -23,6 +59,7 @@ This README outlines the tags and elements used when creating my personal portfo
 ### Header and Navigation
 - `<header>`: Contains introductory content for the webpage, including logos and navigation links.
 - `<nav>`: Defines a set of navigation links for menus.
+- `&nbsp;`: It is a non breaking space, a entities that will not break into a new line.
 
 ### Tables
 - `<table>`: Creates a table to organize content, with attributes like width, border, cellpadding, and cellspacing adjusting the layout.
@@ -48,7 +85,6 @@ This README outlines the tags and elements used when creating my personal portfo
 
 ### Footer and Centering
 - `<footer>`: Defines the footer of the page, typically containing copyright information or additional links.
-- `<center>`: Centers the content inside the tag (also an older HTML tag).
 - `target="_blank"`: Opens the linked page in a new browser tab when clicked.
 
 ## Note
