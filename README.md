@@ -55,6 +55,8 @@ Bachelor of Science in Information Systems (BSIS) student. This portfolio highli
 ### Title and Font
 - `<title>`: Defines the title of the webpage, which is displayed in the browser tab.
 - `<font face="Arial">`: Specifies the font to be used for this website (an older HTML tag).
+- `<b>`: I used this elements to bold my name 
+- `<mark>`: To highlight the projects name 
 
 ### Header and Navigation
 - `<header>`: Contains introductory content for the webpage, including logos and navigation links.
@@ -73,8 +75,8 @@ Bachelor of Science in Information Systems (BSIS) student. This portfolio highli
 - `<hr>`: Creates a horizontal rule or line.
 - `<h1>`: Defines the highest level of heading, used for titles or section headers.
 - `<br>`: Produces a line break in the text.
-- `<p align="center">`: Defines a paragraph of text, with the `align="center"` attribute centering the text. (also an older HTML tag)
-- `<section>`: Defines thematic sections of content, such as “Projects” or “Skills,” to help organize the page.
+- `<p align="center">`: Defines a paragraph of text, with the `align="center"` attribute centering the text and  `align="justify"` attribute justifying the text(also an older HTML tag)
+- `<section>`: Defines thematic sections of content, such as “Projects,” “Skills,” “Contact,” and “Footer” to help organize the page.
 
 ### Forms and Inputs
 - `<form>`: Represents a form that users can fill out and submit.
