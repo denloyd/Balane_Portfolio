@@ -55,13 +55,13 @@ Bachelor of Science in Information Systems (BSIS) student. This portfolio highli
 ### Title and Font
 - `<title>`: Defines the title of the webpage, which is displayed in the browser tab.
 - `<font face="Arial">`: Specifies the font to be used for this website (an older HTML tag).
-- `<b>`: I used this elements to bold my name 
-- `<mark>`: To highlight the projects name 
+- `<b>`: I used this elements to bold my name and other important details
+- `<mark>`: To highlight the projects name and other important details
 
 ### Header and Navigation
 - `<header>`: Contains introductory content for the webpage, including logos and navigation links.
 - `<nav>`: Defines a set of navigation links for menus.
-- `&nbsp;`: It is a non breaking space, a entities that will not break into a new line.
+- `&nbsp;`: It is a non breaking space, an entities that will not break into a new line.I used it to move the logo and nav link using spaces
 
 ### Tables
 - `<table>`: Creates a table to organize content, with attributes like width, border, cellpadding, and cellspacing adjusting the layout.
