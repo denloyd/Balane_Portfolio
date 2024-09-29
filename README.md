@@ -14,7 +14,7 @@ Bachelor of Science in Information Systems (BSIS) student. This portfolio highli
    - To clone the repository using GitHub CLI, click **GitHub CLI**, then click the clipboard icon.
 4. Open **Git Bash**.
 5. Change the current working directory to the location where you want the cloned directory.
-6. Type `git clone`, and then paste the URL you copied earlier. (git clone https://github.com/denloyd/DenloydMarBalane)
+6. Type `git clone`, and then paste the URL you copied earlier. (git clone https://github.com/denloyd/Balane_Portfolio.git)
 7. Press Enter to create your local clone. 
 
 ## How to Run the Website Using VSCode Live Server
